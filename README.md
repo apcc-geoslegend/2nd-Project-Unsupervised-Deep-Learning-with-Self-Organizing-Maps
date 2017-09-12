@@ -2,7 +2,7 @@
 
 ## Structure
 
-The goal of this project is to compare an unsupervised deep learning algorithm to its more traditional classification counterpart. Self Organizing Maps are effective at group together data with large feature sets. It can differentiate and detect correlations that are normally difficult to detect. We will use this attribute in hopes to be able to detect a junk car, a lemon. We will compare the Self Organizing Maps ability to classify a junk vechile to the more traditional machine learning algorithms. 
+The goal of this project is to compare an unsupervised deep learning algorithm to its more traditional classification counterpart. Self Organizing Maps are effective at group together data with large feature sets. It can differentiate and detect correlations that are normally difficult to detect. We will use this attribute in hopes to be able to detect a junk car, a lemon. We will compare the Self Organizing Maps ability to classify a junk vechile to the more traditional machine learning algorithms.(link to [Final Report](report.pdf) )
 
 The project is divided into nine sections. The first section is focus on preparing the data to be used by future algorithms. Section 2, Logistic regression, will be our baseline model to compare the other machine learning algorithms to. We will also compare our results to human error, the total number of bad purchases out of all the total purchases. This will be a close approximation to Bayes error; an asymtopic level error rate. Since the target feature is binary, we will evalute our model performance with standard metrics such as accuracy, precision and recall. Your feedback on the notebooks is welcome!
 
